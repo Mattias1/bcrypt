@@ -10,5 +10,5 @@ $ python bcrypt_hash_calculator.py
 
 or:
 ```
-$ python bcrypt_hash_calculator.py some_password --cost 10
+$ python bcrypt_hash_calculator.py some_password --algorithm 2b --cost 12
 ```
